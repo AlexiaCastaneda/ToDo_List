@@ -7,7 +7,7 @@ Es una aplicación de dos ventanas.
 
 ###Visuals
 
-![app](https://user-images.githubusercontent.com/55455793/67263718-be19ab80-f45d-11e9-97a8-e28d34a8e996.png)
+![ToDoList](https://user-images.githubusercontent.com/55455793/71198669-206a0f00-2249-11ea-99ec-e455a5658613.jpeg)
 
 
 
